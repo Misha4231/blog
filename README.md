@@ -58,19 +58,6 @@ Start the server by running:
 python manage.py runserver
 ```
 
-You can now access the app at `http://127.0.0.1:8000/`.
-
-
-## URLs 🌍
-
-- `/`: Homepage displaying a list of all blog posts.
-- `/posts/<slug>/`: Detailed view of a single blog post.
-- `/admin/`: Django admin panel for managing posts, categories, and users.
-- `/tags/<slug>/`: Filter posts by tag.
-- `/categories/<slug>/`: Filter posts by category.
-- `/create/`: Page for creating a new post (for logged-in users).
-
----
 
 ## 🔧 Technologies Used
 
